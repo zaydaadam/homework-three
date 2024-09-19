@@ -1,5 +1,5 @@
 Name: Zay Adam
 Date: 9/19/2024
-Live URL: 
+Live URL: https://mugengm.github.io/homework-three/
 Descripition:
-Interest calculator
+Interest calculator using javascript and html.
